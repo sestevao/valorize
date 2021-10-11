@@ -1,6 +1,6 @@
-# 🚀 NLW Valorize 🚀
+<h1 align="center">🚀 NLW Valorize 🚀</h1>
 
-<pre>🙌It is a system of praise between users through tags 🙌</pre>
+<pre>🙌 It is a system of praise between users through tags 🙌</pre>
 
 ## 💻 About the project
 
@@ -121,8 +121,9 @@ Note: browsers only support GET method requests. Download [Imsomnia](https://ins
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
-<hr>
+---
 
-made with 💜 by sestevao 👋
+<p align="center"><sub>made with 💜 by sestevao</sub></p>
+
