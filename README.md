@@ -1,7 +1,5 @@
 # 🚀 NLW Valorize 🚀
 
-![banner](https://user-images.githubusercontent.com/61299540/123202984-020f5000-d48c-11eb-8c12-38af40aae04e.png)
-
 <pre>🙌It is a system of praise between users through tags 🙌</pre>
 
 ## 💻 About the project
@@ -9,6 +7,8 @@
 **Valorize** allow to register common users and admin users, tags and compliments between users. The app has friendly errors, use JWT to logins, validation, also a simple versioning was made.
 
 Application built on the Node.js track from Next Level Week NLW#05 from @rocketseat during April 19-25, 2021.
+
+![banner](https://user-images.githubusercontent.com/61299540/123202984-020f5000-d48c-11eb-8c12-38af40aae04e.png)
 
 ## 🛠️ Features
 
