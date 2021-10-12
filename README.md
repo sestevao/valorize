@@ -1,6 +1,7 @@
-<h1 align="center">🚀 NLW Valorize 🚀</h1>
-
-<pre>🙌 It is a system of praise between users through tags 🙌</pre>
+<div align="center">
+  <h1>🚀 NLW Valorize 🚀</h1>
+  <pre>🙌 It is a system of praise between users through tags 🙌</pre>  
+</div>
 
 ## 💻 About the project
 
