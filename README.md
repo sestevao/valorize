@@ -114,11 +114,11 @@ Note: browsers only support GET method requests. Download [Imsomnia](https://ins
 
 ## 🔥 Additional functionalities
 
-- Enviar e-mail para usuário que receber elogio
-- Colocar em produção
-- Criar um front-end
-- Adicionar Cors no Express (cors - @types/cors - app.use(cors()))
-- Upload de imagem/avatar
+- [ ] Send e-mail to user who receives a compliment
+- [ ] Put into production
+- [ ] Create a front-end
+- [ ] Add Colors in Express (cors - @types/cors - app.use(cors()))
+- [ ] Upload image/avatar
 
 ## 📝 License
 
